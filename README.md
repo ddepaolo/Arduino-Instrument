@@ -1,2 +1,2 @@
-# Arduino-Instrument
-Arduino Proximity Instrument Code
+# Arduino-Lazer Maze
+Arduino Lazer Maze Code
